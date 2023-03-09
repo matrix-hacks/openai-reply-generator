@@ -40,6 +40,6 @@ Some bot platforms to consider:
 
 Hemppa (python): https://github.com/vranki/hemppa/pull/233
 
-Maubot (go): https://github.com/maubot/maubot
+Maubot (python): https://github.com/maubot/maubot
 
 Go-NEB (go): https://github.com/matrix-org/go-neb
