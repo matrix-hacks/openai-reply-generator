@@ -15,3 +15,7 @@ https://github.com/kfatehi/matrix-js-sdk/tree/openai
 https://github.com/kfatehi/matrix-react-sdk/tree/openai
 
 https://user-images.githubusercontent.com/175305/222951380-8a5c46fa-c7d9-4230-a666-76dae98b3ccf.mp4
+
+- note, i have since switched to synapse due better bridge support
+
+https://github.com/kfatehi/synapse/tree/openai
